@@ -1,8 +1,8 @@
 export const WORDS = [
   'samba',
-  'heels',
-  'tango',
   'judge',
+  'tango',
+  'heels',
   'salsa',
   'derek',
   'dance',
@@ -30,6 +30,7 @@ export const WORDS = [
   'sasha',
   'frame',
   'bindi',
+  'disco',
   'amber',
   'doble',
   'wanya',
