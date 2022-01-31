@@ -23,7 +23,7 @@ export const generateEmojiGrid = (guesses: string[]) => {
               return '🟨'
             default:
               //return localStorage.getItem('theme') === 'light' ? '⬜' : '⬛'
-              return '⬛'
+              return '⬜'
           }
         })
         .join('')
