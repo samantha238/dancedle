@@ -40,7 +40,8 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
       </p>
       <br></br>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        All words are DWTS related, ranging from dance styles to professional dancer / celebrity names to random DWTS terms. Enjoy!😁
+        All words are DWTS related, ranging from dance styles to professional dancer / celebrity 
+        names to random DWTS terms and inside jokes. Enjoy!😁
       </p>
     </BaseModal>
   )
