@@ -58,6 +58,7 @@ export const WORDS = [
   'tamar',
   'conga',
   'wendy',
+  'swing',
   'jesse',
   'toxic',
   'charo',
