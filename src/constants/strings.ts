@@ -1,6 +1,6 @@
-export const WORDLE_TITLE = '___ Wordle'
+export const WORDLE_TITLE = 'DWTS Wordle'
 
-export const WIN_MESSAGES = ['Great Job!', 'Awesome', 'Well done!']
+export const WIN_MESSAGES = ['So true!', 'Great job!', 'Period!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
 export const ABOUT_GAME_MESSAGE = 'About this game'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Not enough letters'
