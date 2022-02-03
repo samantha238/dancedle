@@ -9,7 +9,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
   return (
     <BaseModal title="About" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        This is a Dancing with the Stars themed clone of the game Wordle, developed by{' '}
+        This is a Dancing with the Stars themed clone of a word guessing game, developed by{' '}
         <a
           href="https://www.hannahmariepark.com/"
           className="underline font-bold"
@@ -25,17 +25,10 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
         </a>{' '}
         - view Hannah's{' '}
         <a
-          href="https://github.com/hannahcode/wordle"
+          href="https://github.com/hannahcode/word-guessing-game"
           className="underline font-bold"
         >
           open source code here
-        </a>{' '}
-        and play the{' '}
-        <a
-          href="https://www.powerlanguage.co.uk/wordle/"
-          className="underline font-bold"
-        >
-          original Wordle here
         </a>.
       </p>
       <br></br>
